@@ -1,0 +1,11 @@
+node_modules/
+.env
+package-lock.json
+uploads/actualizaciones/**
+uploads/comunicados/**
+uploads/clientes/**
+uploads/protocolos/**
+uploads/avisos/**
+uploads/personalizados/**
+!.gitkeep
+
